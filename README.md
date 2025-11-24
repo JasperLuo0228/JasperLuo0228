@@ -21,7 +21,7 @@ I'm always seeking new opportunities, so please don't hesitate to reach out to m
 
 **Data Science & Statistics** @ [UC Santa Barbara](https://www.ucsb.edu)  
 **Undergraduate Research Assistant** @ [WAVES Lab](https://waves.eri.ucsb.edu/)
-**Statistics and Data Science Tutor** @ [Campus Learning Assistance Services](https://clas.sa.ucsb.edu/)
+**Statistics and Data Science Tutor** @ [UCSB Campus Learning Assistance Services](https://clas.sa.ucsb.edu/)
 **Interests:** Exploring machine learning, deep learning, and Geospatial ML, with a growing focus on data analysis and data visualization.
 
 ## Skills
