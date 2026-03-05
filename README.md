@@ -1,32 +1,25 @@
-# Welcome to my Profile!
+# Jasper Luo
 
-<!--
-**JasperLuo0228/JasperLuo0228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science and Statistics @ UCSB  
+Undergraduate Research Assistant @ [WAVES Lab](https://waves.eri.ucsb.edu/)  
+Statistics and Data Science Tutor @ [UCSB CLAS](https://clas.sa.ucsb.edu/)
 
-Here are some ideas to get you started:
+I am interested in machine learning, geospatial ML, and practical data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Background
-
-Hi! I'm Jasper, a Junior undergraduate student at UCSB, majoring in Statistics and Data Science.
-I'm always seeking new opportunities, so please don't hesitate to reach out to me at ruiming_luo@ucsb.edu if you have any questions about my experiences.
-
-**Data Science & Statistics** @ [UC Santa Barbara](https://www.ucsb.edu)  
-**Undergraduate Research Assistant** @ [WAVES Lab](https://waves.eri.ucsb.edu/)  
-**Statistics and Data Science Tutor** @ [UCSB Campus Learning Assistance Services](https://clas.sa.ucsb.edu/)  
-**Interests:** Exploring machine learning, deep learning, and Geospatial ML, with a growing focus on data analysis and data visualization.
+## Contact
+- Email: `ruiming_luo@ucsb.edu`
+- GitHub: [@JasperLuo0228](https://github.com/JasperLuo0228)
 
 ## Skills
-- **Programming:** Python, R, SQL, C++  
-- **Machine Learning:** PyTorch, TensorFlow, Scikit-learn  
-- **Tools:** Git, Docker, Google Cloud, Jupyter  
+- Programming: Python, R, SQL, C++
+- ML: PyTorch, TensorFlow, Scikit-learn
+- Data: Pandas, NumPy, Matplotlib
+- Tools: Git, Docker, Google Cloud, Jupyter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperLuo0228&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Current Focus
+- Applied ML for real-world datasets
+- Statistical modeling and experiment analysis
+- Data visualization and dashboarding
+
+## GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasperLuo0228&layout=compact&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
