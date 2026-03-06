@@ -1,8 +1,8 @@
 # Jasper Luo
 
-Data Science and Statistics @ UCSB  
-Data Science Capstone Research Intern @ BlueAlpha  
-Economics and Statistics CLAS Tutor @ UCSB
+Data Science and Statistics @ [UC Santa Barbara](https://www.ucsb.edu/)  
+Data Science Capstone Research Intern @ [BlueAlpha AI](https://bluealpha.ai/)
+Economics and Statistics CLAS Tutor @ [UCSB CLAS](https://clas.sa.ucsb.edu/)
 
 I build practical data products across machine learning, analytics, and data engineering.
 
