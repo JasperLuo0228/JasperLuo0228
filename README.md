@@ -1,10 +1,10 @@
 # Jasper Luo
 
-B.S. Statistics and Data Science @ [UC Santa Barbara](https://www.ucsb.edu/) 
-M.S. Data Science @ [Columbia Univeristy](https://www.engineering.columbia.edu/)
-Data Science Intern @ [Adaptive Machines, Inc](@https://www.runnerai.com/)
-Ex-Data Science Capstone Research Intern @ [BlueAlpha AI](https://bluealpha.ai/)
-Ex-Economics and Statistics CLAS Tutor @ [UCSB CLAS](https://clas.sa.ucsb.edu/)
+B.S. Statistics and Data Science @ [UC Santa Barbara](https://www.ucsb.edu/)<br>
+M.S. Data Science @ [Columbia Univeristy](https://www.engineering.columbia.edu/)<br>
+Data Science Intern @ [Adaptive Machines, Inc](https://www.runnerai.com/)<br>
+Ex-Data Science Capstone Research Intern @ [BlueAlpha AI](https://bluealpha.ai/)<br>
+Ex-Economics and Statistics CLAS Tutor @ [UCSB CLAS](https://clas.sa.ucsb.edu/)<br>
 
 I build practical data products across machine learning, analytics, and data engineering.
 
